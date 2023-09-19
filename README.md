@@ -1,4 +1,4 @@
-# Hanieh's Portfolio
+# 👩🏻‍💻 Hanieh's Portfolio
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
@@ -8,7 +8,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 * Data Wrangling
 * Tableau
 
-# Machine Learning
+# 👩🏻‍💻🤖🧠🖥️ Machine Learning 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🚙 🚚 📷 [Interpreting an Image Classifier Project](https://github.com/hhaeri/Interpreting_Image_Classifiers) | Sep 2023 | Python, PyTorch, OmniXAI | Developed and implemented an image classifier interpretation tool. The pipeline encompassed utilizing a pre-trained RESNET model to create predictions for chosen images and employing model-agnostic interpretation tools via OmniXAI to delve into the underlying rationales guiding the model's decisions. |
