@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Hanieh's Portfolio
-Welcome to my data science/ machine learning portfolio! Here, I document a summary of my projects in the data science and machine learning field.
+Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
 * [Machine Learning](README.md#machine-learning)
