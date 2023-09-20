@@ -4,7 +4,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 ## 📚 Table of Contents
 * [Machine Learning](README.md#machine-learning)
 * Spark
-* Data Wrangling
+* [Data Wrangling](README.md#data-wrangling)
 * SQL
 * Tableau
 
