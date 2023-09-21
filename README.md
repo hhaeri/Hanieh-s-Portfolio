@@ -17,4 +17,4 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 # 👩🏻‍💻🖥️ Data Wrangling 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-|  📷 [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
+|  📷 [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
