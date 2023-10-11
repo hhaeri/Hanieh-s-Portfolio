@@ -17,7 +17,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 # 👩🏻‍💻🤖🧠🖥️ Natural Language Processing
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚙 🚚 📷 [Natural Language Processing with Yelp reviews]([https://github.com/hhaeri/](https://github.com/hhaeri/NLP-with-Yelp-reviews)) | Feb 2022 | Python, Scikit_Learn | Performed Natural Language Processing using the Yelp Review dataset on the kaggle website. Built bag-of-word and bigram models. Built a Naive Bayes model to find the most polar words. Analysed reviews of restaurants to find food bigrams  |
+| 🚙 🚚 📷 [Natural Language Processing with Yelp reviews](https://github.com/hhaeri/NLP-with-Yelp-reviews) | Feb 2022 | Python, Scikit_Learn | Performed Natural Language Processing using the Yelp Review dataset on the kaggle website. Built bag-of-word and bigram models. Built a Naive Bayes model to find the most polar words. Analysed reviews of restaurants to find food bigrams  |
 
 # 👩🏻‍💻🖥️📈 Data Wrangling 
 | Project Link | Completion Date | Tools | Project Description | 
