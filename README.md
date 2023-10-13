@@ -2,10 +2,10 @@
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
-* [Machine Learning](README.md#👩🏻‍💻🤖🧠🖥️-Machine-Learning)
+* [Machine Learning](README.md#%EF%B8%8F-Machine-Learning)
 * [Natural Language Processing](README.md#%EF%B8%8F-natural-language-processing)
 * Spark
-* [Data Wrangling](README.md#data-wrangling)
+* [Data Wrangling]()
 * SQL
 * Tableau
 
