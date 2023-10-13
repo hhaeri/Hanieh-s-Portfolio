@@ -3,7 +3,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 
 ## 📚 Table of Contents
 * [Machine Learning](README.md#👩🏻‍💻🤖🧠🖥️-Machine-Learning)
-* [Natural Language Processing](README.md#👩🏻‍💻🤖🧠🖥️natural-language-processing)
+* [Natural Language Processing](README.md#%EF%B8%8F-natural-language-processing)
 * Spark
 * [Data Wrangling](README.md#data-wrangling)
 * SQL
