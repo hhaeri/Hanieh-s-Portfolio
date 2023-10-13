@@ -5,7 +5,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 * [Machine Learning](README.md#%EF%B8%8F-machine-learning)
 * [Natural Language Processing](README.md#%EF%B8%8F-natural-language-processing)
 * Spark
-* [Data Wrangling]()
+* [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
 * SQL
 * Tableau
 
