@@ -2,6 +2,7 @@
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
+* [Interpretable AI](README.md#%EF%B8%8F-interpretable-ai)
 * [Machine Learning](README.md#%EF%B8%8F-machine-learning)
 * [Natural Language Processing](README.md#%EF%B8%8F-natural-language-processing)
 * Spark
@@ -9,11 +10,14 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 * SQL
 * Tableau
 
-# 👩🏻‍💻🤖🧠🖥️ Machine Learning 
+# 👩🏻‍💻🤖🧠🖥️ Interpretable AI 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🚙 🚚 📷 [Interpreting an Image Classifier](https://github.com/hhaeri/Interpreting_Image_Classifiers) | Sep 2023 | Python, PyTorch, OmniXAI | Developed and implemented an image classifier interpretation tool. The pipeline encompassed utilizing a pre-trained RESNET model to create predictions for selected images and employing model-agnostic interpretation tools via OmniXAI to delve into the underlying rationales guiding the model's decisions. |
-| 🚙 🚚 📷 [Semantic Segmentation for Extracting Geologic Features from Historic Topographic Maps](https://github.com/hhaeri/Semantic-Segmentation-for-Feature-Extraction/tree/main) | Jan 2023 | Python, PyTorch, TensorFlow, CNN, Unet, MaskRCNN | Developed and implemented a Semantic Segmenttaion model for extracting features from historic USGS maps. The pipeline encompassed utilizing a pre-trained UNet model and fine-tuning it with the available data. |
+# 👩🏻‍💻🤖🧠🖥️ Machine Learning 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🤖🧠📷 [Semantic Segmentation for Extracting Geologic Features from Historic Topographic Maps](https://github.com/hhaeri/Semantic-Segmentation-for-Feature-Extraction/tree/main) | Jan 2023 | Python, PyTorch, TensorFlow, CNN, Unet, MaskRCNN | Developed and implemented a Semantic Segmenttaion model for extracting features from historic USGS maps. The pipeline encompassed utilizing a pre-trained UNet model and fine-tuning it with the available data. |
 | :syringe: [Prediction of Daily County Level COVID Cases in School Age Population using Machine Learning](https://github.com/hhaeri/TDI_Capstone) | Mar 2022 |Python, Jupyter Notebook, Pandas, scikit-learn, Streamlit | Designed, created, and deployed a custom time series forecasting model to predict county_level daily COVID-19 case count in the State of California using Python and Streamlit on Jupyter Notebook. |
 # 👩🏻‍💻🤖🧠🖥️ Natural Language Processing
 | Project Link | Completion Date | Tools | Project Description | 
