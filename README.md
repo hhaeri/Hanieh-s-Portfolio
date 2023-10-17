@@ -10,7 +10,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 * SQL
 * Tableau
 
-# 👩🏻‍💻🤖🧠🖥️ Interpretable AI 
+# 👩🏻‍💻🆗🤖🖥️ Interpretable AI 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | [Interpretable AI for Medical Imaging Data](https://github.com/hhaeri/Interpretable-AI-for-Medical-Imaging) | Ongoing | Python, PyTorch, TensorFlow, Variational Auto Encoder | Focus of my research is to provide interpretable deep learning models for processing and classification of medical imaging data. The current research efforts are directed towards the refinement of multiple regularization techniques tailored for enhancing the performance of a novel VAE architecture named CLAP. |
@@ -21,7 +21,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 |---|---|---|---|
 | [Semantic Segmentation for Extracting Geologic Features from Historic Topographic Maps](https://github.com/hhaeri/Semantic-Segmentation-for-Feature-Extraction) | Jan 2023 | Python, PyTorch, TensorFlow, CNN, Unet, MaskRCNN | Developed and implemented a Semantic Segmenttaion model for extracting features from historic USGS maps. The pipeline encompassed utilizing a pre-trained UNet model and fine-tuning it with the available data. |
 | [Prediction of Daily County Level COVID Cases in School Age Population using Machine Learning](https://github.com/hhaeri/TDI_Capstone) | Mar 2022 |Python, Jupyter Notebook, Pandas, scikit-learn, Streamlit | Designed, created, and deployed a custom time series forecasting model to predict county_level daily COVID-19 case count in the State of California using Python and Streamlit on Jupyter Notebook. |
-# 👩🏻‍💻🤖🧠🖥️ Natural Language Processing
+# 👩🏻‍💻📖㊗️🖥️ Natural Language Processing
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | [Natural Language Processing with Yelp reviews](https://github.com/hhaeri/NLP-with-Yelp-reviews) | Feb 2022 | Python, Scikit_Learn | Performed Natural Language Processing using the Yelp Review dataset on the kaggle website. Built bag-of-word and bigram models. Built a Naive Bayes model to find the most polar words. Analysed reviews of restaurants to find food bigrams  |
